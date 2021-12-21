@@ -1,0 +1,31 @@
+{
+  "lang": "en",
+  "name": {
+    "first": "Szabolcs",
+    "last": "Sikó"
+  },
+  "position": "Senior Software Engineer",
+  "contacts": {
+     "phone": "+44 (0) 7483 813538",
+     "email": "siko.szabolcs@gmail.com",
+     "twitter": "sikoszabolcs"
+  },
+  "profile": "Alma",
+  "skills": ["Skill #1", "Skill #2"],
+  "experience": [
+    {
+      "workPosition": "Senior Software Engineer",
+      "workPeriod": "2016 - 2021",
+      "companyName": "Siemens Mobility",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "degreeTitle": "Degree",
+      "institutionName": "University",
+      "studyDirection": "Bla"
+    }
+  ]
+}
+

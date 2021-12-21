@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "name": {
+    "first": "Szabolcs",
+    "last": "Sikó"
+  },
+  "position": "Senior Software Engineer",
+  "contacts": {
+     "phone": "+44 (0) 7483 813538",
+     "email": "siko.szabolcs@gmail.com",
+     "twitter": "@sikoszabolcs"
+  },
+  "profile": "I am a software engineer with 15 years of experience with an interest in databases, distributed systems and low level systems software.",
+  "skills": [
+    "C#", 
+    "Java", 
+    "Safety relevant software",
+    "English", 
+    "German", 
+    "Hungarian"
+  ],
+  "experience": [
+    {
+      "workPosition": "Senior Software Engineer",
+      "workPeriod": "2016 - 2021",
+      "companyName": "Siemens Mobility",
+      "description": [
+        "Product: Digital Conflict Resolution - a solution which offers timetable management and conflict resolution for railway operators.",
+        " – As a key software engineer on the project, I am looking after the project architecture as well as the distributed systems challenges and developments.",
+        " – Acted as Team Lead for the sub-systems outsourced to Siemens India",
+        " – Worked closely with a distributed team of software engineers across UK, India, Switzerland and Romania to successfully deliver the solution to our clients.",
+        " – The Digital Conflict Resolution software has recently been successfully delivered for commissioning in the Derby area.",
+        "[.NET, C#, NUnit, Jenkins, Rational Synergy, Git, Java, JUnit, TeamCity]",
+        "\n",
+        "Product: Connected-Driver Advisory System - a prototype development, which allows train drivers to have timely notification of railway condition changes.",
+        "– Had the opportunity to work as the software lead for a prototype solution with very tight time scales, where I was able to suggest and use new technologies and processes.",
+        "– The prototype was completed in time within budget. After a successful demonstration to our stakeholders, it lead to new orders from clients across the UK and Siemens decided to create a formal product based on the prototype.",
+        "[.NET, Blazor, JavaScript, MQTT, docker, NUnit, Git]",
+        "\n",
+        "Product: Westcad-E - a control centre software used for controlling trains with added ETCS functions.",
+        "– Acted as the team lead for the project, continuing the work we began with Accenture.",
+        "– Helped deliver many versions of the software for commissioning for Thameslink.",
+        "[.NET, C#, NUnit, JustMock, Jenkins, Rational Synergy]"
+      ]
+    },
+    {
+      "workPosition": "Senior Software Engineer",
+      "workPeriod": "2014 - 2016",
+      "companyName": "Accenture",
+      "description": [
+        "Westcad-E on-site full software development life-cycle support/ Managing the near-shore team in Cluj, RO of 8 developers & testers", 
+        "assisted with transition to agile, evaluated and proposed software to assist testing legacy code, designed, implemented solution to analyse and centralise code metrics. Planned and estimated, implementation, unit testing and documentation tasks.", 
+        "Provided yearly performance feedback and ratings as part of line management duties."
+      ]
+    },
+    {
+      "workPosition": "Software Engineer",
+      "workPeriod": "2006 - 2014",
+      "companyName": "Evoline",
+      "description": [
+        "Started with on-site learning phase, and then built up a development & verification team to deliver a SIL4 product to Siemens Germany.", 
+        "Planned and estimated, design, implementation, unit testing and documentation tasks, managed client and sent periodic status reports.", 
+        "Provided yearly performance feedback and ratings as part of line management duties.", 
+        "Designed architecture for porting business logic from existing Oracle database stored procedures to .NET. The business rationale was that clients should be able to choose the database vendor. Implemented and tested the solution in vb.NET. Porting involved analysing large legacy SQL stored procedures and was challenging in having to port code from a declarative (SQL) to an imperative programming language (VB.NET).", 
+        "Designed and lead a team of 4 developers to implement an internal platform for internal applications such as CV management for HR and project metrics management for QA departments. Technologies used were ASP.NET, JavaScript, Ajax and SQL.", 
+        "Started in the MES field with a project from Siemens, Italy supporting production processes in production plants.", "Designed, implemented, tested, and documented a subsystem which gathered data from third party components through an OPC interface. Implementation required C++, MFC and COM. As an improvement to the development process I introduced the boost library to simplify common development tasks.", 
+        "Created training materials related to COM/DCOM technologies and presented them to my peer developers. Designed, implemented as well as fixed defects for a Siemens owned software for managing parameters of electric motors. C++ was used and waterfall development process. It involved an 11 month assignment in Budapest, HU."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degreeTitle": "Batchelors in Systems and Computer Engineering",
+      "institutionName": "Petru Maior University of Targu Mures, RO",
+      "studyDirection": ""
+    }
+  ]
+}
+
