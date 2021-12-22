@@ -12,6 +12,9 @@
     <div class="skills">
       <Skills />
     </div>
+     <div class="languages">
+      <Languages />
+    </div>
     <div class="experience">
       <Experience />
     </div>
@@ -29,13 +32,14 @@ import Contacts from "@/components/Contacts.vue";
 import Profile from "@/components/Profile.vue";
 import Header from "@/components/Header.vue";
 import Skills from "@/components/Skills.vue";
+import Languages from "@/components/Languages.vue";
 import Experience from "@/components/Experience.vue";
 import Education from "@/components/Education.vue";
 
 export default {
   name: "Resume",
 
-  components: { Contacts, Profile, Header, Skills, Experience, Education },
+  components: { Contacts, Profile, Header, Skills, Languages, Experience, Education },
 };
 </script>
 
@@ -48,12 +52,14 @@ export default {
     "header header"
     "contacts profile"
     "skills experience"
+    "languages experience"
     "education experience"
     "expertise experience";
 }
 
 .contacts,
 .skills,
+.languages,
 .education,
 .expertise {
   padding: 0px 45px 0 45px;
@@ -90,6 +96,10 @@ export default {
   grid-area: skills;
 }
 
+.languages {
+  grid-area: languages;
+}
+
 .experience {
   grid-area: experience;
 }
@@ -112,6 +122,7 @@ export default {
       "profile"
       "experience"
       "skills"
+      "languages"
       "education"
       "expertise";
   }
@@ -121,11 +132,11 @@ export default {
   }
 
   .contacts,
-  .skills,
   .profile,
   .experience,
   .expertise,
   .skills,
+  .languages,
   .education {
     padding: 0px 20px 0 20px !important;
   }
@@ -137,6 +148,7 @@ export default {
       "header header"
       "contacts profile"
       "skills experience"
+      "languages experience"
       "education experience"
       "expertise experience";
   }

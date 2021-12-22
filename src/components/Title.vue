@@ -16,6 +16,7 @@ export default {
 
 <style scoped>
 h1 {
+  /* color: #5AA9E6; */
   font-weight: 800;
   font-size: 18px;
   letter-spacing: 6px;

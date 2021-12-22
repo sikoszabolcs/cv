@@ -17,6 +17,7 @@ export default {
 
 <style>
 h3 {
+  /* color: #9ED5FA; */
   margin: 0;
   letter-spacing: 2px;
   line-height: 22px;

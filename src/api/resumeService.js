@@ -7,11 +7,12 @@ export const languages = [
     code: "en",
     data: enData,
     resumeLabels: {
-      contacts: "Contacts",
+      contacts: "Contact",
       profile: "Profile",
       skills: "Skills",
+      languages: "Languages",
       experience: "Experience",
-      professional: "Professional",
+      professional: "",
       education: "Education",
     },
   },
@@ -22,10 +23,11 @@ export const languages = [
     resumeLabels: {
       contacts: "Elérhetőség",
       profile: "Profíl",
-      skills: "",
+      skills: "Szakismeret",
+      languages: "Nyelvismeret",
       experience: "Tapasztalat",
       professional: "",
-      education: "Végt",
+      education: "Végzettség",
     },
   },
 ];

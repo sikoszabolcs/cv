@@ -31,11 +31,11 @@ button {
 
 body {
   margin: 0;
-  background: rgb(204, 204, 204);
+  background: #F9F9F9;
 }
 
 .a4 {
-  background: #e4e4e6;
+  background: #F5F5F5;
   display: block;
   margin: 0 auto;
   margin-top: 0.5cm;
